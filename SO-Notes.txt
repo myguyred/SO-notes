@@ -1,0 +1,44 @@
+// Page #1
+
+◄ Thrust -I
+► Drag -I
+▲Lift -I
+▼Gravity -C
+
+:THRUST:
+When you through the plane it creates it's thrust that slowly disapates over the corse of the flight.
+The reason that it doesn't continue to slow down during the flight, is because it is also falling
+"converting" potential energy into thrust as it falls.
+
+:LIFT:
+The lift comes from the diffrence in air preasure above and below the wing. This is caused by the shape
+of the wing, known as the airfoil. Lift is proportional to the size of the wing and the square of the speed
+of the plane.
+
+// Page #2
+
+:LIFT & DRAG:
+Lift and drag help keep the plane in the air. Aditionally, thrust isn't necessarily needed in the middle
+of a flight, altho it is needd to begin said flight.
+
+:DICT:
+Thrust - Pushes the plane forward
+Drag - Opposes  the thrust ; Needed so the plane doesn't tilt upwards
+Lift - Moves the plane upwards
+Gravity - Pulls the plane downwards
+
+--Thrust generates Drag.
+
+:LIFT EQ:
+L = .5 * Cl * r * V^2 * A
+
+r = air density
+V = velocity
+A = wing area
+Cl = lift coefficient
+
+// Page #3
+
+:IDEAS:
+Make a plane that glides wiht a low center of mass and a high wing area. Low weight would be good but if 
+it is heavy, that might work too.
