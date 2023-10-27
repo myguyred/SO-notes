@@ -1,3 +1,8 @@
+// EQ in this TxT file
+Acceleration
+Velocity
+Lift
+
 // Page #1
 
 ◄ Thrust -I
@@ -67,7 +72,8 @@ Acceleration
 *Use Newtons for force
 Acceleration = m/2^2
 
-Fnet = m * a
-Fnet = total force
-m = mass
-a = acceleration
+a = (vf - vi) / (tf - ti)
+vf = velocity final
+vi = velocity initial
+tf = time final
+ti = time initial
