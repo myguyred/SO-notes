@@ -45,7 +45,8 @@ Cl = lift coefficient
 
 :IDEAS:
 Make a plane that glides wiht a low center of mass and a high wing area. Low weight would be good but if 
-it is heavy, that might work too.
+it is heavy, that might work too. After careful consideration I think that I should make a plane from one
+of those websites, with added things. I should maybe add something to stop it from tilting right and left.
 
 // Page #4
 
