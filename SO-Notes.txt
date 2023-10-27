@@ -42,3 +42,32 @@ Cl = lift coefficient
 :IDEAS:
 Make a plane that glides wiht a low center of mass and a high wing area. Low weight would be good but if 
 it is heavy, that might work too.
+
+// Page #4
+
+:CALC:
+Calculating Maneuvering Speed (Va)
+Calculating Visual Descent Point (VDP)
+Converting climb gradient from feet per nautical mile to feet per minute (FPM)
+How far out to start descending (using a standard 3 degree glide path)
+Rate of descent to track a glide slope (3 degree)
+Descent rate to use from the final approach fix (FAF)
+Calculate the climb gradient required to climb over an obstacle 
+
+Calculating Velocity, Drag, Descent, Asecent
+
+:EQ:
+Velocity = d/t
+d = distance
+t = time in seconds
+
+Acceleration
+*Keep units in metric system
+*Use kg for mass
+*Use Newtons for force
+Acceleration = m/2^2
+
+Fnet = m * a
+Fnet = total force
+m = mass
+a = acceleration
