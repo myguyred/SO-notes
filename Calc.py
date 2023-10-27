@@ -11,6 +11,7 @@ def cls():
 cls()
 print("1. Velocity")
 print("2. Acceleration")
+print("3. Area Finder")
 
 ans = input("-> ")
 
@@ -29,3 +30,31 @@ if ans == "2":
 	ti = int(input("ti-> "))
 	cls()
 	print(f"Ans: {(vf - vi) / (tf - ti)}")
+
+if ans == "3":
+	cls()
+	print("1. Triangle")
+	print("2. Square")
+	print("3. Rectangle")
+
+	ans = input("-> ")
+
+	if ans == "1":
+		cls()
+		w = int(input("Width-> "))
+		h = int(input("Height-> "))
+		cls()
+		print(f"Ans: {(w * h) / 2}")
+
+	if ans == "2":
+		cls()
+		w = int(input("Width-> "))
+		cls()
+		print(f"Ans: {w * w}")
+
+	if ans == "3":
+		cls()
+		w = int(input("Width-> "))
+		h = int(input("Height-> "))
+		cls()
+		print(f"Ans: {w * h}")
