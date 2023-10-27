@@ -8,8 +8,6 @@ https://www.foldnfly.com/#/1-1-1-1-1-1-1-1-2
 https://www.paperairplaneshq.com/
 https://www.thecoolist.com/best-paper-airplane-designs/
 
-// Page #1
-
 ◄ Thrust -I
 ► Drag -I
 ▲Lift -I
@@ -24,8 +22,6 @@ The reason that it doesn't continue to slow down during the flight, is because i
 The lift comes from the diffrence in air preasure above and below the wing. This is caused by the shape
 of the wing, known as the airfoil. Lift is proportional to the size of the wing and the square of the speed
 of the plane.
-
-// Page #2
 
 :LIFT & DRAG:
 Lift and drag help keep the plane in the air. Aditionally, thrust isn't necessarily needed in the middle
@@ -46,8 +42,6 @@ r = air density
 V = velocity
 A = wing area
 Cl = lift coefficient
-
-// Page #3
 
 :IDEAS:
 Make a plane that glides wiht a low center of mass and a high wing area. Low weight would be good but if 
