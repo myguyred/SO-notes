@@ -5,4 +5,7 @@ I will also use this to keep motes for aero-dynamic stuffz.
 
 This might be maintaned after 6 months or the end of S-O(science Olympiad).
 
-# Equations Covered
+## Equations Covered
+1. Acceleration
+2. Velocity
+3. Lift
